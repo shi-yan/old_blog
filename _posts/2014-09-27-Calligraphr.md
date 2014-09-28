@@ -22,7 +22,7 @@ Although learning curve is very steep for the language, effective learning metho
 
 Introducting calligraphy, our hack for the google glass education hackathon to improve this learning experience. We use augmented reality to project an interactive charater animation on a real paper. Students can use the traditional brush and ink to trace down the character stroke by stroke. Once finished, our program can automatically judge the work and give a score. Like games, characters are organized by difficulties. Users can start with simple characters and proceed to further levels.
 
-<img src="/media/2014-09-27-Calligraphr/IMG_3964.jpg" align="center" style="width:480px;display:block;margin-left:auto;margin-right:auto" />
+<img src="/media/2014-09-27-Calligraphr/IMG_3964.jpg" align="center" style="width:320px;display:block;margin-left:auto;margin-right:auto" />
 
 Technology is under the blame of ruining traditions. We forget how to write because of the keyboard. We don't know how to spell due to auto completion. But really they shouldn't be a pair of enemies. With wearable technologies like google glass, we can bridge something old and classic with something new.
 
