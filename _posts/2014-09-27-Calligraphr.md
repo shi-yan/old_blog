@@ -2,14 +2,14 @@
 layout: post
 title: "Calligraphr"
 quote: "An interactive Chinese Learning app for Google Glass."
-image: /media/2014-09-27-Calligraphy/cover.jpg
+image: /media/2014-09-27-Calligraphr/cover.jpg
 video: false
 comments: true
 ---
 
 #Calligraphr is the app we developed during Google Glass Hackathon that helped us win the first prize. "[http://challengepost.com/software/calligraphr](http://challengepost.com/software/calligraphr)"
 
-< iframe title="Calligraphr" width="640" height="360" src="https://www.youtube.com/watch?v=abWyiEY7P-A?autoplay=1" frameborder="0">< /iframe>
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
 
 Characters are the major barriers for chinese language learners. As an extreme case, the single character biang has 56 strokes. 
 learning characters is not only about memorizing how characters look, but also how they should be writtern, How different parts of a character should be porpotioned to each others. Needless to say, there are hundreds of writing styles. for this matter, stroke order plays an important role. 
