@@ -12,7 +12,7 @@ comments: true
 <iframe width="560" height="315" src="//www.youtube.com/embed/abWyiEY7P-A?rel=0" style="display:block;margin-left:auto;margin-right:auto" frameborder="0"> </iframe>
 
 Characters are the major barriers for chinese language learners. As an extreme case, the single character biang has 56 strokes. 
-learning characters is not only about memorizing how characters look, but also how they should be writtern, How different parts of a character should be porpotioned to each others. Needless to say, there are hundreds of writing styles. for this matter, stroke order plays an important role. 
+Learning characters is not only about memorizing how characters look, but also how they should be writtern, how different parts of a character should be porpotioned to each others. Needless to say, there are hundreds of writing styles. For this matter, stroke order plays an important role. 
 
 <img src="/media/2014-09-27-Calligraphr/biang.gif" align="center" style="width:320px;display:block;margin-left:auto;margin-right:auto"/>
 
