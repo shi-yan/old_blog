@@ -7,9 +7,7 @@ video: false
 comments: true
 ---
 
-#Calligraphr is the app we developed during Google Glass Hackathon that helped us win the first prize. 
-
-[http://challengepost.com/software/calligraphr](http://challengepost.com/software/calligraphr)
+#Calligraphr is the app we developed during Google Glass Hackathon that won us the first prize. 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/abWyiEY7P-A?rel=0" style="display:block;margin-left:auto;margin-right:auto" frameborder="0"> </iframe>
 
@@ -26,4 +24,6 @@ Introducting calligraphy, our hack for the google glass education hackathon to i
 
 <img src="/media/2014-09-27-Calligraphr/IMG_3964.jpg" align="center" style="width:480px;display:block;margin-left:auto;margin-right:auto" />
 
-Technology is under the blame of ruin traditions. We forget how to write because of the keyboard. We don't know how to spell due to auto completion. But really they shouldn't be a pair of enemies. With wearable technologies like google glass, we can bridge something old and classic with something new.
+Technology is under the blame of ruining traditions. We forget how to write because of the keyboard. We don't know how to spell due to auto completion. But really they shouldn't be a pair of enemies. With wearable technologies like google glass, we can bridge something old and classic with something new.
+
+[http://challengepost.com/software/calligraphr](http://challengepost.com/software/calligraphr)
